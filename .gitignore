@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Data (raw protected)
+data/raw/*
+!data/raw/.gitkeep
+
+data/external/*
+!data/external/.gitkeep
+
+# Models
+models/trained/*
+!models/trained/.gitkeep
+
+# Power BI temp
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
