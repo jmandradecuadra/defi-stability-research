@@ -1,0 +1,2 @@
+model,dep_var,n_obs,r_squared,adj_r_squared,f_stat,f_pvalue,durbin_watson,aic,bic
+OLS_HAC,tvl_log_return,1163,0.0317,0.0259,2.2573,0.0277,1.7587,-4653.36,-4612.89

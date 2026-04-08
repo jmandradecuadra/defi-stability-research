@@ -1,0 +1,4 @@
+Event,Date,TVL pre-mean (B),TVL post-mean (B),TVL change (%),TVL max drop (%),ETH pre-mean,ETH post-mean,ETH change (%),F&G pre-mean,F&G post-mean
+LUNA collapse,2022-05-09,144.26,80.27,-44.36,-47.99,2930.54,1936.32,-33.93,25.1,12.3
+FTX bankruptcy,2022-11-11,51.82,41.26,-20.37,-23.1,1421.31,1226.78,-13.69,27.2,24.3
+SVB failure,2023-03-10,48.24,47.82,-0.87,-12.52,1601.72,1765.67,10.24,52.8,58.5
