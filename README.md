@@ -2,8 +2,8 @@
 ## Evidencia cuantitativa sobre volatilidad, liquidez y sentimiento de mercado
 
 **Autor:** Andrade Cuadra, José Manuel  
-**Institución:** Instituto de Estudios Superiores de Administración (IESA)  
-**Publicación:** Capítulo de libro — *Volumen conmemorativo 50 aniversario del Doctorado en Ciencias Económicas*, Universidad Católica Andrés Bello (UCAB), Caracas, Venezuela, 2026.  
+**Institución:** Egresado MS en Finanzas JUl2023 - Instituto de Estudios Superiores de Administración (IESA)  
+**Publicación:** Propuesta de Capítulo de libro — *Volumen conmemorativo 50 aniversario del Doctorado en Ciencias Económicas*, Universidad Católica Andrés Bello (UCAB), Caracas, Venezuela, 2026.  
 **Editor:** Luis Morales, Director del Doctorado en Ciencias Económicas, UCAB.
 
 ---
